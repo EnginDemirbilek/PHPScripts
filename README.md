@@ -1,2 +1,2 @@
 # PHPScripts
-Little php scripts that you may use in our pentest processes.
+Little php scripts that you may use in pentest engaggments
